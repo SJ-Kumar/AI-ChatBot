@@ -18,5 +18,4 @@ jobs:
       - name: Install dependencies
         run: pip install openai
 
-      - name: Deploy
-        run: sh scripts/deploy.sh
+     
